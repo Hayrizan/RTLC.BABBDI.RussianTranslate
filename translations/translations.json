@@ -1,0 +1,812 @@
+{
+  "entries": [
+    {
+      "source": "PLAY",
+      "target": "ИГРАТЬ"
+    },
+    {
+      "source": "PlaME",
+      "target": "ИГРОАТЬ"
+    },
+    {
+      "source": "OipPtIon",
+      "target": "НАСТРООЙКА"
+    },
+    {
+      "source": "QuuTI",
+      "target": "ВЫЫЙ\nТИ"
+    },
+    {
+      "source": "Options",
+      "target": "НаСТРойки"
+    },
+    {
+      "source": "Controls",
+      "target": "Управление"
+    },
+    {
+      "source": "Volume",
+      "target": "Громкость"
+    },
+    {
+      "source": "Volume(text)",
+      "target": "Громкость"
+    },
+    {
+      "source": "MASTER VOLUME",
+      "target": "ОБЩАЯ ГРОМКОСТЬ"
+    },
+    {
+      "source": "MUSIC",
+      "target": "МУЗЫКА"
+    },
+    {
+      "source": "Save",
+      "target": "Сохранить"
+    },
+    {
+      "source": "Resume",
+      "target": "Продолжить"
+    },
+    {
+      "source": "Library",
+      "target": "Журнал"
+    },
+    {
+      "source": "Back",
+      "target": "НАЗАД"
+    },
+    {
+      "source": "Achievements",
+      "target": "Достижения"
+    },
+    {
+      "source": "RETURN TO MENU",
+      "target": "В ГЛАВНОЕ МЕНЮ"
+    },
+    {
+      "source": "RETURN\nTO MENU",
+      "target": "В МЕНЮ"
+    },
+    {
+      "source": "RETURN HOME",
+      "target": "ВЕРНУТЬСЯ ДОМОЙ"
+    },
+    {
+      "source": "NOT AVAILABLE",
+      "target": "НЕДОСТУПНО"
+    },
+    {
+      "source": "GO BACK TO SUBWAY INFORMATION CENTRE",
+      "target": "ВЕРНУТЬСЯ В ИНФОРМАЦИОННЫЙ ЦЕНТР"
+    },
+    {
+      "source": "Quit",
+      "target": "Выйти"
+    },
+    {
+      "source": "SECRET COLLECTION",
+      "target": "СЕКРЕТНЫЕ ПРЕДМЕТЫ"
+    },
+    {
+      "source": "RESET RUN",
+      "target": "СБРОСИТЬ ЗАБЕГ"
+    },
+    {
+      "source": "SAVE GAME",
+      "target": "СОХРАНИТЬ ИГРУ"
+    },
+    {
+      "source": "RESET SAVE",
+      "target": "СБРОСИТЬ СОХРАНЕНИЕ"
+    },
+    {
+      "source": "MOUSE SENSITIVITY",
+      "target": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
+    },
+    {
+      "source": "SMOOTH HEAD MOVEMENT",
+      "target": "ПЛАВНОЕ ДВИЖЕНИЕ ГОЛОВЫ"
+    },
+    {
+      "source": "INVERT MOUSE Y",
+      "target": "ИНВЕРСИЯ Y"
+    },
+    {
+      "source": "INVERT MOUSE X",
+      "target": "ИНВЕРСИЯ X"
+    },
+    {
+      "source": "SPEEDRUN MODE",
+      "target": "РеЖиМ СПиДРаНа"
+    },
+    {
+      "source": "TO MENU",
+      "target": "В МЕНЮ"
+    },
+    {
+      "source": "tip - press [tab] ingame to enter the library",
+      "target": "Подсказка: нажми [Tab] в игре, чтобы открыть журнал"
+    },
+    {
+      "source": "Press 'tab' to open library",
+      "target": "Нажми [Tab], чтобы открыть журнал"
+    },
+    {
+      "source": "press [tab] to open library",
+      "target": "Нажми [Tab], чтобы открыть журнал"
+    },
+    {
+      "source": "press [m] to see map",
+      "target": "Нажми [M], чтобы открыть карту"
+    },
+    {
+      "source": "unplug controller to play with keyboard",
+      "target": "Отключи геймпад, чтобы играть с клавиатуры"
+    },
+    {
+      "source": "unplug gamepad to see keyboard controls",
+      "target": "Отключи геймпад, чтобы увидеть управление с клавиатуры"
+    },
+    {
+      "source": "game saved",
+      "target": "Игра сохранена"
+    },
+    {
+      "source": "your library will be saved",
+      "target": "Журнал будет сохранён"
+    },
+    {
+      "source": "YOUR PROGRESS WILL BE SAVED",
+      "target": "ПРОГРЕСС БУДЕТ СОХРАНЁН"
+    },
+    {
+      "source": "No save file found",
+      "target": "Файл сохранения не найден"
+    },
+    {
+      "source": "DELETE ALL YOUR PROGRESS (INCLUDING ACHIEVEMENTS && SECRETS)",
+      "target": "УДАЛИТЬ ВЕСЬ ПРОГРЕСС (ВКЛЮЧАЯ ДОСТИЖЕНИЯ И СЕКРЕТЫ)"
+    },
+    {
+      "source": "DOING THIS WILL BRING YOU BACK TO YOUR HOME (KEEPING YOUR PROGRESS)",
+      "target": "ТЫ ВЕРНЁШЬСЯ ДОМОЙ, СОХРАНИВ ПРОГРЕСС"
+    },
+    {
+      "source": "exit to main menu",
+      "target": "Выйти в главное меню"
+    },
+    {
+      "source": "take the train, the station isn't far",
+      "target": "Садись на поезд, станция недалеко."
+    },
+    {
+      "source": "my doctor said to stay in that position",
+      "target": "Врач велел мне стоять в такой позе."
+    },
+    {
+      "source": "I think his wife passed away",
+      "target": "Кажется, его жена умерла."
+    },
+    {
+      "source": "it was too much for her",
+      "target": "Она этого не вынесла."
+    },
+    {
+      "source": "unless you've got a ticket.",
+      "target": "Разве что у тебя есть билет."
+    },
+    {
+      "source": "trains don't stop",
+      "target": "Поезда не останавливаются."
+    },
+    {
+      "source": "not even if you step on the tracks",
+      "target": "Даже если встать на рельсы."
+    },
+    {
+      "source": "jumping won't hurt you",
+      "target": "От прыжков ничего с тобой не случится."
+    },
+    {
+      "source": "maybe travel agents still sell tickets",
+      "target": "Может, в кассе ещё продают билеты."
+    },
+    {
+      "source": "the information centre is at the end of the canal",
+      "target": "Информационный центр находится в конце канала."
+    },
+    {
+      "source": "sweet sweet sunshine",
+      "target": "Ласковое, ласковое солнышко."
+    },
+    {
+      "source": "I'm lying flat",
+      "target": "Я лежу плашмя."
+    },
+    {
+      "source": "her body decayed so quickly",
+      "target": "Её тело так быстро разложилось."
+    },
+    {
+      "source": "no need for this anymore, take it",
+      "target": "Билет мне больше ни к чему — забирай."
+    },
+    {
+      "source": "we will get out of babbdi",
+      "target": "Мы выберемся из Баббди."
+    },
+    {
+      "source": "I have train tickets",
+      "target": "У меня есть билеты на поезд."
+    },
+    {
+      "source": "get out of my sight.",
+      "target": "Убирайся с глаз долой."
+    },
+    {
+      "source": "he has tickets to leave babbdi",
+      "target": "У него есть билеты, чтобы уехать из Баббди."
+    },
+    {
+      "source": "they don't sell tickets anymore",
+      "target": "Билеты больше не продают."
+    },
+    {
+      "source": "remember that sick woman",
+      "target": "Помнишь ту больную женщину?"
+    },
+    {
+      "source": "she died, maybe you can have her ticket",
+      "target": "Она умерла — может, заберёшь её билет."
+    },
+    {
+      "source": "take this device and right click to find her corpse",
+      "target": "Возьми этот прибор и нажми правую кнопку мыши, чтобы найти её труп."
+    },
+    {
+      "source": "his wife is sick",
+      "target": "У него жена больна."
+    },
+    {
+      "source": "he needs to reach the city",
+      "target": "Ему нужно добраться до города."
+    },
+    {
+      "source": "you can buy those at the end of the canal, in the information centre",
+      "target": "Их можно купить в информационном центре в конце канала."
+    },
+    {
+      "source": "this is a great food place",
+      "target": "Здесь отлично кормят."
+    },
+    {
+      "source": "the only way of leaving babbdi...",
+      "target": "Чтобы выбраться из Баббди…"
+    },
+    {
+      "source": "requires a train ticket",
+      "target": "Нужен билет на поезд."
+    },
+    {
+      "source": "that was impressive",
+      "target": "Это было впечатляюще."
+    },
+    {
+      "source": "I'm so bored",
+      "target": "Мне так скучно."
+    },
+    {
+      "source": "make my head spin",
+      "target": "Вскружи мне голову."
+    },
+    {
+      "source": "take my club",
+      "target": "Возьми мою биту."
+    },
+    {
+      "source": "just grab it and hit surfaces with it",
+      "target": "Просто возьми её и бей по поверхностям."
+    },
+    {
+      "source": "maybe we see each other again",
+      "target": "Может, ещё увидимся."
+    },
+    {
+      "source": "one step at a time",
+      "target": "Шаг за шагом."
+    },
+    {
+      "source": "I can make it home",
+      "target": "Я смогу добраться домой."
+    },
+    {
+      "source": "this was my favorite music when I was a child.",
+      "target": "В детстве это была моя любимая музыка."
+    },
+    {
+      "source": "we had such a great time with your mother",
+      "target": "Как же хорошо мы тогда проводили время с твоей мамой."
+    },
+    {
+      "source": "I remember when you were just a child",
+      "target": "Помню тебя ещё совсем ребёнком."
+    },
+    {
+      "source": "We don't issue these anymore.",
+      "target": "Мы их больше не выдаём."
+    },
+    {
+      "source": "No more tickets.",
+      "target": "Билетов больше нет."
+    },
+    {
+      "source": "volver a mi casa pero por el momento me gusta babbdi.",
+      "target": "Я вернусь домой, но пока мне нравится Баббди."
+    },
+    {
+      "source": "Es muy especial.",
+      "target": "Это совершенно особое место."
+    },
+    {
+      "source": "Me gusta la musica.",
+      "target": "Мне нравится музыка."
+    },
+    {
+      "source": "Climb your way through babbdi and reach the highest peak",
+      "target": "Вскарабкайся по Баббди до самой высокой точки."
+    },
+    {
+      "source": "Find a ticket in order to leave the town of babbdi",
+      "target": "Найди билет, чтобы уехать из Баббди."
+    },
+    {
+      "source": "Finish the game under 4 minutes",
+      "target": "Пройди игру менее чем за 4 минуты."
+    },
+    {
+      "source": "Get all secret objects in the town of babbdi",
+      "target": "Собери все секретные предметы в Баббди."
+    },
+    {
+      "source": "Get hit by a train",
+      "target": "Попади под поезд."
+    },
+    {
+      "source": "Impress the girl next to the church with the bike",
+      "target": "Впечатли девушку у церкви на мотоцикле."
+    },
+    {
+      "source": "Interact with everyone in the town of babbdi",
+      "target": "Поговори со всеми жителями Баббди."
+    },
+    {
+      "source": "Leave the town of babbdi.",
+      "target": "Покинь Баббди."
+    },
+    {
+      "source": "Play ball with the dog",
+      "target": "Поиграй с собакой в мяч."
+    },
+    {
+      "source": "Way of the climber",
+      "target": "Путь скалолаза"
+    },
+    {
+      "source": "Way of the rusher",
+      "target": "Путь спидраннера"
+    },
+    {
+      "source": "Way of the biker",
+      "target": "Путь байкера"
+    },
+    {
+      "source": "Way of the seducer",
+      "target": "Путь обольстителя"
+    },
+    {
+      "source": "Babbdi Quest",
+      "target": "Квест Баббди"
+    },
+    {
+      "source": "Social Quest",
+      "target": "Социальный квест"
+    },
+    {
+      "source": "Melancholic Departure",
+      "target": "Меланхоличный отъезд"
+    },
+    {
+      "source": "Flat Face",
+      "target": "Плоское лицо"
+    },
+    {
+      "source": "Do a 360° with the motorbike",
+      "target": "Сделай разворот на 360° на мотоцикле."
+    },
+    {
+      "source": "Secrets master",
+      "target": "Мастер секретов"
+    },
+    {
+      "source": "You FOund a SecreT objEct",
+      "target": "Вы НАшли сеКРетНый преДмет"
+    },
+    {
+      "source": "You FouNd thE mAp",
+      "target": "Вы НАшЛи каРТу"
+    },
+    {
+      "source": "you have no ticket",
+      "target": "У тебя нет билета"
+    },
+    {
+      "source": "you left BabBDi",
+      "target": "ты покинул БаББдИ"
+    },
+    {
+      "source": "Holfred",
+      "target": "Холфред"
+    },
+    {
+      "source": "Griselda",
+      "target": "Гризельда"
+    },
+    {
+      "source": "Ivano",
+      "target": "Ивано"
+    },
+    {
+      "source": "Dragojevic",
+      "target": "Драгоевич"
+    },
+    {
+      "source": "Dragoyevic",
+      "target": "Драгоевич"
+    },
+    {
+      "source": "Arlend",
+      "target": "Арленд"
+    },
+    {
+      "source": "Amassou",
+      "target": "Амассу"
+    },
+    {
+      "source": "Cinderella",
+      "target": "Золушка"
+    },
+    {
+      "source": "Cendrillon",
+      "target": "Золушка"
+    },
+    {
+      "source": "Mina",
+      "target": "Мина"
+    },
+    {
+      "source": "Ashraf",
+      "target": "Ашраф"
+    },
+    {
+      "source": "Agrafena",
+      "target": "Аграфена"
+    },
+    {
+      "source": "Arthur",
+      "target": "Артур"
+    },
+    {
+      "source": "Aboubi",
+      "target": "Абуби"
+    },
+    {
+      "source": "Madeline",
+      "target": "Мадлен"
+    },
+    {
+      "source": "Lee Chong",
+      "target": "Ли Чонг"
+    },
+    {
+      "source": "Jeanine",
+      "target": "Жанин"
+    },
+    {
+      "source": "Travel Agent",
+      "target": "Кассир"
+    },
+    {
+      "source": "Asker",
+      "target": "Аскер"
+    },
+    {
+      "source": "Albin",
+      "target": "Альбин"
+    },
+    {
+      "source": "Teo",
+      "target": "Тео"
+    },
+    {
+      "source": "MacLeod",
+      "target": "Маклауд"
+    },
+    {
+      "source": "Bouncer",
+      "target": "Вышибала"
+    },
+    {
+      "source": "Coach Timmus",
+      "target": "Тренер Тиммус"
+    },
+    {
+      "source": "Timmus",
+      "target": "Тиммус"
+    },
+    {
+      "source": "you want to leave ?",
+      "target": "Хочешь уехать отсюда?"
+    },
+    {
+      "source": "intestinal issues",
+      "target": "Проблемы с кишечником."
+    },
+    {
+      "source": "up there...",
+      "target": "Там, наверху…"
+    },
+    {
+      "source": "try jumping",
+      "target": "Попробуй прыгнуть."
+    },
+    {
+      "source": "leaving babbdi ?",
+      "target": "Уезжаешь из Баббди?"
+    },
+    {
+      "source": "No sé cuando podré volver a mi casa pero por el momento me gusta babbdi.",
+      "target": "Не знаю, когда смогу вернуться домой, но пока мне нравится Баббди."
+    },
+    {
+      "source": "Eres loco ?",
+      "target": "Ты с ума сошёл?"
+    },
+    {
+      "source": "Mi padre murió...",
+      "target": "Мой отец умер..."
+    },
+    {
+      "source": "José Padillas...",
+      "target": "Хосе Падильяс..."
+    },
+    {
+      "source": "Gamba y la pequeña de mi casa estamos en vacaciones aqui en babbdi.",
+      "target": "Мы с Гамбой и моей малышкой приехали сюда, в Баббди, в отпуск."
+    },
+    {
+      "source": "sewers oil",
+      "target": "Масло из канализации."
+    },
+    {
+      "source": "lucky him",
+      "target": "Повезло ему."
+    },
+    {
+      "source": "by train",
+      "target": "На поезде."
+    },
+    {
+      "source": "bye",
+      "target": "Пока."
+    },
+    {
+      "source": "DoorWatch",
+      "target": "Охранник"
+    },
+    {
+      "source": "Gabriel",
+      "target": "Габриэль"
+    },
+    {
+      "source": "Girl",
+      "target": "Девушка"
+    },
+    {
+      "source": "Talo",
+      "target": "Тало"
+    },
+    {
+      "source": "TravelAgent",
+      "target": "Кассир"
+    },
+    {
+      "source": "Wife",
+      "target": "Жена"
+    },
+    {
+      "source": "Ashraff",
+      "target": "Ашраф"
+    },
+    {
+      "source": "Lo A     d G i N",
+      "target": "ЗА Г Р\nУ З А К"
+    },
+    {
+      "source": "You cAn restARt the Game in The InGame Menu with \"ReSet Save\" Button",
+      "target": "СБРОСИТЬ ПРОГРЕСС МОЖНО В МЕНЮ ПАУЗЫ ВО ВРЕМЯ ИГРЫ КНОПКОЙ «СБРОСИТЬ <nobr>СОХРАНЕНИЕ».</nobr>"
+    },
+    {
+      "source": "LOW",
+      "target": "НИЗКОЕ"
+    },
+    {
+      "source": "MEDIUM",
+      "target": "СРЕДНЕЕ"
+    },
+    {
+      "source": "HIGH",
+      "target": "ВЫСОКОЕ"
+    },
+    {
+      "source": "ULTRA",
+      "target": "УЛЬТРА"
+    },
+    {
+      "source": "SOUND EFFECT",
+      "target": "ЗВУКОВЫЕ ЭФФЕКТЫ"
+    },
+    {
+      "source": "Option A",
+      "target": "Вариант А"
+    },
+    {
+      "source": "OK",
+      "target": "ОК"
+    },
+    {
+      "source": "AMBIENT SOUNDS",
+      "target": "ЗВУКИ ОКРУЖЕНИЯ"
+    },
+    {
+      "source": "DOGGO FRIENDLY",
+      "target": "ДРУГ ПЁСИКОВ"
+    },
+    {
+      "source": "SAVING...",
+      "target": "СОХРАНЕНИЕ..."
+    },
+    {
+      "source": "ask for train [e]",
+      "target": "вызвать поезд [E]"
+    },
+    {
+      "source": "CONFIRM",
+      "target": "ПОДТВЕРДИТЬ"
+    },
+    {
+      "source": "MAP",
+      "target": "КАРТА"
+    },
+    {
+      "source": "use elevator [e]",
+      "target": "воспользоваться лифтом [E]"
+    },
+    {
+      "source": "grab [e]",
+      "target": "взять [E]"
+    },
+    {
+      "source": "a game made by\n\nleonard lemaitre\nsirius lemaitre\n\n\nlemaitre Bros",
+      "target": "Авторы игры:\n\nLeonard Lemaître\nSirius Lemaître\n\n\nLemaître Bros"
+    },
+    {
+      "source": "acknowledgments",
+      "target": "БЛАГОДАРНОСТИ"
+    },
+    {
+      "source": "SPECIAL THANKS TO :\n\nMICHAEL BERTO\nMOSHE LINKE\nBLANCHE LEMAITRE\nTHOMAS LEAN\nIVAN ÓVIC\nMatthias Snare\r\nPaul Lancelot\r\nArthur Bonhomme aka MAYAA\nFUCKGAMEDEV\nethan charlier\namin ammari \nNiels Tiercelin\nMiroslav Horvat\ngraham lally\n",
+      "target": "ОСОБАЯ БЛАГОДАРНОСТЬ:\n\nMICHAEL BERTO\nMOSHE LINKE\nBLANCHE LEMAITRE\nTHOMAS LEAN\nIVAN ÓVIC\nMatthias Snare\r\nPaul Lancelot\r\nArthur Bonhomme aka MAYAA\nFUCKGAMEDEV\nethan charlier\namin ammari \nNiels Tiercelin\nMiroslav Horvat\ngraham lally\n"
+    },
+    {
+      "source": "open door [e]",
+      "target": "открыть дверь [E]"
+    },
+    {
+      "source": "on/off [e]",
+      "target": "вкл./выкл. [E]"
+    },
+    {
+      "source": "0123456789Timer",
+      "target": "0123456789Таймер"
+    },
+    {
+      "source": "TALK [E]",
+      "target": "ГОВОРИТЬ [E]"
+    },
+    {
+      "source": "talk [x]",
+      "target": "говорить [X]"
+    },
+    {
+      "source": "grab [x]",
+      "target": "взять [X]"
+    },
+    {
+      "source": "open door [x]",
+      "target": "открыть дверь [X]"
+    },
+    {
+      "source": "use elevator [x]",
+      "target": "воспользоваться лифтом [X]"
+    },
+    {
+      "source": "on/off [x]",
+      "target": "вкл./выкл. [X]"
+    },
+    {
+      "source": "ask for train [x]",
+      "target": "вызвать поезд [X]"
+    },
+    {
+      "source": "babbdi scale (10:1)",
+      "target": "гамма Баббди (10:1)"
+    },
+    {
+      "source": "rhino scale (12:0.5)",
+      "target": "носорожья гамма (12:0.5)"
+    },
+    {
+      "source": "new york scale (7.9:1.23)",
+      "target": "нью-йоркская гамма (7.9:1.23)"
+    },
+    {
+      "source": "undergound scale (11.2:1.1)",
+      "target": "подзменая гамма (11.2:1.1)"
+    },
+    {
+      "source": "new scale (9:0.5)",
+      "target": "новая гамма (9:0.5)"
+    },
+    {
+      "source": "Achievement unlocked",
+      "target": "Достижение получено"
+    },
+    {
+      "source": "Ca snet le caca isici",
+      "target": "Здсеь пахнет какшками."
+    },
+    {
+      "source": "Joe",
+      "target": "Джо"
+    },
+    {
+      "source": "LIBbaRY",
+      "target": "ЖУРнаЛ"
+    },
+    {
+      "source": "you  left BabBDi",
+      "target": "ты покинул БаББдИ"
+    },
+    {
+      "source": "HEADBOD AND CAMERA TILT",
+      "target": "КАЧНАИЕ И НАКЛОН КАМЕРЫ"
+    },
+    {
+      "source": "CANCEL",
+      "target": "ОТМЕНА"
+    },
+    {
+      "source": "OpTecNS",
+      "target": "НАСТРЕИКИ"
+    },
+    {
+      "source": "OIPTION",
+      "target": "НАСТРООЙКА"
+    },
+    {
+      "source": "version 1.2.4",
+      "target": "версия 1.2.4"
+    }
+  ]
+}

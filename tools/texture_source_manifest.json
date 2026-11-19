@@ -1,0 +1,412 @@
+{
+  "textures": [
+    {
+      "asset": "sharedassets0.assets",
+      "path_id": 29,
+      "name": "1348595413586720353Xbox 360 Controller Diagram.svg.hi",
+      "width": 1047,
+      "height": 736,
+      "rgba_sha256": "ca41aea60a61130cc882e0b233f27f8e51cfa901c58994d1b0e6788f443b17ca"
+    },
+    {
+      "asset": "sharedassets0.assets",
+      "path_id": 30,
+      "name": "XONCKN 1",
+      "width": 2048,
+      "height": 1062,
+      "rgba_sha256": "18ccd5e0d1ca0d98e28d8cd51f0b69f38fd5ce3adf16eb15f977c8aed1af8fcc"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 288,
+      "name": "T_PaintBucket00",
+      "width": 512,
+      "height": 512,
+      "rgba_sha256": "800327e382620254cfc71c10cac8cac630dc26f7ea723a39c5ae4d5f6f71c613"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 306,
+      "name": "T_Ciggies02",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "7935a16934960ec1dc398826072fe2ac84d2ea67767c027a552b2d7597aa0e24"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 307,
+      "name": "trainstation",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "8747c43315b5f029ef5e1fb2b4650dcf6057139e6e8132ed6640b4b6f3a768ea"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 329,
+      "name": "concorde-hotel-kl",
+      "width": 512,
+      "height": 1024,
+      "rgba_sha256": "9d0ce60e1cc7527d480e54ed52c75a8652a5f90cd7efd5f2d1c7f552b01bd882"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 335,
+      "name": "T_TeoPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "71f4c76f069d59a535a8e3dd21413fc529ecf4fd829fecfdf2f668af8b438ace"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 339,
+      "name": "319122485_512406597328855_5322838870533733702_n",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "fcc955c4d3bec9d1fb8e4948a39b690938f3b47e78d099530064bf2358ced878"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 340,
+      "name": "T_AshraffPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "4176c46c89189e35f856b52fd60701b2e53945ad47fba8bc68db1b83925f4baf"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 371,
+      "name": "T_AlbinPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "e737ca4549264bd2889a405e6ff776dfbebb2009a9332a2b7676c352fafd563d"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 387,
+      "name": "T_LeeChongPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "d22d1ffd15a5080e9cfa625ff19535c37300a31f96910c72089a8276a77910b0"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 398,
+      "name": "T_MinaPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "9942ba1ac8d68d3737a5aaa5e1027557dff0902e6816c09b879042ad97e1f203"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 405,
+      "name": "T_Ciggies04",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "24c18bdba40f4792721d6cad3bab106fc4396ca51d5601ba183a32ae9942e385"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 414,
+      "name": "T_Ciggies03",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "acd3234c84dc557b3b80fb1f8728a842d8bf8c7c275e80fbc26d900907c1dec1"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 422,
+      "name": "trainstation03",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "800dc729eacfffd74d129fa2dc6c64f194ab42af49fa50bf38e1776df54f63ef"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 430,
+      "name": "T_Map00",
+      "width": 1024,
+      "height": 512,
+      "rgba_sha256": "7fe9c11c14e0a1d468f1a00c9073af4a12460512a1528641b63b197ead0412b3"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 477,
+      "name": "T_CoachTimmusPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "b0857e25d59d3104577ce2c4a3ab91abf5fbcb0f27a04bfbcbf7fa9a9227a3f2"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 483,
+      "name": "T_Map00 1",
+      "width": 1112,
+      "height": 680,
+      "rgba_sha256": "b8fb4f778576851e65833882bb3371cdae0c2fa1bc22e283ad0fe1cccf2e16d6"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 485,
+      "name": "T_IvanoPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "538116cc38c348f20dc7fff9c33615127e5abd0344983df9bcd2f8486dff6b1a"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 489,
+      "name": "T_CendrillonPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "f1dc96c6b4e4cb28a059db028c660fbd6c2c6c95772a4b260171a3e3fa888227"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 491,
+      "name": "318645124_538315194593143_6325983402664695391_n",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "b21020d7406b00955b048c8fbb196bb976d0a7d2948f58c405e4f14f2627d9ab"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 493,
+      "name": "T_Bouquinsrefs00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "581e9b536166b2fe570fad0e39912fa3e61e99730c3caad92830187fa90df778"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 512,
+      "name": "T_Ciggies06",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "f6b1832a9c53448d32eea5057930686779fb61f98ea17a2ddbffbc50763a075f"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 514,
+      "name": "T_Ciggies00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "e3c24e967129b7f8352dcb8e64dc3d4d02962d809447f1b73f6ff8e90c94f9e6"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 522,
+      "name": "T_Bleach00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "a4e63e797011b670ba64e018cf87f8bd051a778f46576a1e026c39e2c3b65c21"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 529,
+      "name": "318550228_885693872588153_3982101770269646025_n",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "aa4992b55bc6228325e0494b9fda99535a5ed7d39ddcf26cb2b70d7ba713b121"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 531,
+      "name": "T_ArthurPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "b6fde678c47e5e2b040676bf4876e291b9cd9117d930bde3ce10fd592d77925c"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 532,
+      "name": "T_Can00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "2e76df5207e43a34a84fd9343b13047fbfbae2cbcbd59721225ee31f78db8ff0"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 545,
+      "name": "T_ItemsFinder00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "c74f7f31df479ff66097ff8f34c096eee594c925949efc983c46e75ad4a41a0d"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 553,
+      "name": "T_Ticket_00_BC 1",
+      "width": 537,
+      "height": 280,
+      "rgba_sha256": "bc176b64c4a86e6f3dc158fe8e071077f51202fb2e5cf6b7f1c3f2275cd566a4"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 555,
+      "name": "TrainSign",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "5718fbbde7cfd97b0a9f7797b247ff1e48ee9f90195d09513676ea648c0db0c5"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 557,
+      "name": "trainstation01",
+      "width": 2048,
+      "height": 1024,
+      "rgba_sha256": "c7602468863b805acfe98390afab8f8784c49cb1d68c23545694fee1f034934b"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 560,
+      "name": "tutoPogo",
+      "width": 1496,
+      "height": 809,
+      "rgba_sha256": "ac63e0762926a99d7f3de4928086e61818980572978198a37f1e9dd76162be3f"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 567,
+      "name": "T_WifePhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "6fa06e19fe130f07a0c7c732d61ad1c36ed06583f6e654ab7b6c8a4d750b17df"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 576,
+      "name": "T_Destaurant00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "8befd3303ae71c25e7fa4e9325f11a63c920f52ee5e4e4d4bd8a31f5f9a868d5"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 585,
+      "name": "T_Destaurant02",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "c0608c88932f38519241bf0759f0ecbe9ff945f082a099dc35eef5de40ccb3fc"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 588,
+      "name": "T_Detector00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "25efaa6dcb547c93f7485887c08af2c21bbdc5815be036e8e9a3fe7387160e44"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 590,
+      "name": "T_HolfredPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "440f616e37735ef30007e80642cd70a62b96586e43edd7a954223e5452861142"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 598,
+      "name": "T_Ciggies01",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "eb92ca6a7d3d96ce34e920d8e7b169256306d7775c4111f3d9d4d92d27d373c6"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 612,
+      "name": "T_Ciggies08",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "1cad34bee333e87395d058ab3553b99fab96b8a047591833b201fe47e7a2bae0"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 613,
+      "name": "T_RailSign_BC00",
+      "width": 2048,
+      "height": 1024,
+      "rgba_sha256": "4176abdd99c08ca7e792c5993fef68bfd24130e626e59240e923592ff336f334"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 622,
+      "name": "Wine3",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "66825ea947c3e273c0cb3955ceceb0959f71b37a375622543db1a20ca1accddf"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 627,
+      "name": "T_Can01",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "a77ab938f708d8b0eeefc33cea7e005b56317312841350a20f663cbd990d30f0"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 632,
+      "name": "T_Ciggies07",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "b6b44575c2c87b459d93315099ed359509159576d45b9d335767aa67f1ff6a7d"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 637,
+      "name": "T_AboubiPhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "0bb3e146692ecd41ff9d7458086cc4e37dfcd6af1e9d832470193659fa6099b4"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 641,
+      "name": "DALL·E 2022-12-21 12.04.48 - video game tutorial panel _ scroll mouse wheel to change trumpet musical scale, easy to understand",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "80b416e1c47225381a2b535ab3f46a8ff9d174d094de4dfefba6f68c213e8f98"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 645,
+      "name": "T_JeaninePhoto00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "811e7b59eba2ee1980b0896b40ddfc61c2f5fe0c9589b0ac31a4405e0898a706"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 651,
+      "name": "M_ManholeCover00",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "6c1f9979a7f13427aff3771e41752195c95c8f934da94f18f24b6ec3656ecf0a"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 655,
+      "name": "T_Ciggies05",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "c5a343b2681e1cf5a1e1374f990e655395844375a7d9dcf883741ef7aa59f4ac"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 661,
+      "name": "T_Destaurant01",
+      "width": 1024,
+      "height": 1024,
+      "rgba_sha256": "4635447a0f2805e00029fb30ed660d209b65fab3fe5c2ace8419a84856fdcc81"
+    },
+    {
+      "asset": "sharedassets1.assets",
+      "path_id": 663,
+      "name": "T_Ticket_00_BC",
+      "width": 512,
+      "height": 256,
+      "rgba_sha256": "7516808c395def6e43899132999dd833eaff9b836e588038efc1d1023b11d9ab"
+    }
+  ]
+}

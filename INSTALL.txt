@@ -1,0 +1,9 @@
+BABBDI — русификатор для Windows x64
+
+Готовый установочный архив RTLC.BABBDI.RussianTranslate.zip из Releases уже содержит BepInEx 5.4.23.6. Закройте игру и распакуйте архив рядом с Babbdi.exe.
+
+Если вы собрали ZIP самостоятельно через build_release.ps1, установите BepInEx 5 x64 для Unity Mono отдельно, затем распакуйте ZIP в каталог игры.
+
+При обновлении сначала перенесите старую папку BepInEx\plugins\RTLC.BABBDI.RussianTranslate за пределы BepInEx\plugins. Новая папка содержит только DLL и rtlc.bundle.
+
+Журнал загрузки: BepInEx\LogOutput.log.
